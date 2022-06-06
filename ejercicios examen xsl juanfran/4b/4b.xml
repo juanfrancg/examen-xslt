@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cataleg>
+  <disc>
+    <titol precio="7.20">Picture book</titol>
+    <any>la publicació fou 1985. Bona dècada del 80!</any>
+  </disc>
+  <disc>
+    <titol precio="7.80">Midt om natten</titol>
+    <any>la publicació fou 1983. Bona dècada del 80!</any>
+  </disc>
+  <disc>
+    <titol precio="7.80">Red</titol>
+    <any>la publicació fou 1987. Bona dècada del 80!</any>
+  </disc>
+  <disc>
+    <titol precio="7.90">Bridge of Spies</titol>
+    <any>la publicació fou 1987. Bona dècada del 80!</any>
+  </disc>
+  <disc>
+    <titol precio="7.90">The dock of the bay</titol>
+    <any>la publicació fou 1968. Bona dècada</any>
+  </disc>
+  <disc>
+    <titol precio="8.10">Sylvias Mother</titol>
+    <any>la publicació fou 1973. Bona dècada</any>
+  </disc>
+  <disc>
+    <titol precio="8.20">Tupelo Honey</titol>
+    <any>la publicació fou 1971. Bona dècada</any>
+  </disc>
+  <disc>
+    <titol precio="8.20">Unchain my heart</titol>
+    <any>la publicació fou 1987. Bona dècada del 80!</any>
+  </disc>
+  <disc>
+    <titol precio="8.70">When a man loves a woman</titol>
+    <any>la publicació fou 1987. Bona dècada del 80!</any>
+  </disc>
+  <disc>
+    <titol precio="8.90">Stop</titol>
+    <any>la publicació fou 1988. Bona dècada del 80!</any>
+  </disc>
+  <disc>
+    <titol precio="8.90">Private Dancer</titol>
+    <any>la publicació fou 1983. Bona dècada del 80!</any>
+  </disc>
+  <disc>
+    <titol precio="9.90">Hide your heart</titol>
+    <any>la publicació fou 1988. Bona dècada del 80!</any>
+  </disc>
+  <disc>
+    <titol precio="9.90">Greatest Hits</titol>
+    <any>la publicació fou 1982. Bona dècada del 80!</any>
+  </disc>
+  <disc>
+    <titol precio="10.90">Empire Burlesque</titol>
+    <any>la publicació fou 1985. Bona dècada del 80!</any>
+  </disc>
+</cataleg>

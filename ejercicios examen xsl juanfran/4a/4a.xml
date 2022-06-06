@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cataleg>
+  <disc>
+    <titol precio="7.20">Picture book</titol>
+    <any>1985</any>
+  </disc>
+  <disc>
+    <titol precio="7.80">Midt om natten</titol>
+    <any>1983</any>
+  </disc>
+  <disc>
+    <titol precio="7.80">Red</titol>
+    <any>1987</any>
+  </disc>
+  <disc>
+    <titol precio="7.90">Bridge of Spies</titol>
+    <any>1987</any>
+  </disc>
+  <disc>
+    <titol precio="7.90">The dock of the bay</titol>
+    <any>1968</any>
+  </disc>
+  <disc>
+    <titol precio="8.10">Sylvias Mother</titol>
+    <any>1973</any>
+  </disc>
+  <disc>
+    <titol precio="8.20">Tupelo Honey</titol>
+    <any>1971</any>
+  </disc>
+  <disc>
+    <titol precio="8.20">Unchain my heart</titol>
+    <any>1987</any>
+  </disc>
+  <disc>
+    <titol precio="8.70">When a man loves a woman</titol>
+    <any>1987</any>
+  </disc>
+  <disc>
+    <titol precio="8.90">Stop</titol>
+    <any>1988</any>
+  </disc>
+  <disc>
+    <titol precio="8.90">Private Dancer</titol>
+    <any>1983</any>
+  </disc>
+  <disc>
+    <titol precio="9.90">Hide your heart</titol>
+    <any>1988</any>
+  </disc>
+  <disc>
+    <titol precio="9.90">Greatest Hits</titol>
+    <any>1982</any>
+  </disc>
+  <disc>
+    <titol precio="10.90">Empire Burlesque</titol>
+    <any>1985</any>
+  </disc>
+</cataleg>
